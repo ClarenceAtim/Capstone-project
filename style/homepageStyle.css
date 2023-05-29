@@ -38,13 +38,13 @@
     gap: 20px;
   }
   
-  .openingText {
+  .intro-text {
     color: var(--red);
     font-weight: 400;
     font-size: 32px;
   }
   
-  .captureText {
+  .captiontext {
     font-size: 62px;
     font-weight: 900;
     line-height: 4.5rem;
@@ -361,13 +361,13 @@
       gap: 20px;
     }
   
-    .openingText {
+    .intro-text {
       color: var(--red);
       font-weight: 400;
       font-size: 32px;
     }
   
-    .captureText {
+    .captiontext {
       font-size: 72px;
       line-height: 5rem;
     }
@@ -460,7 +460,7 @@
   }
   
   @media (min-width: 1200px) {
-    .captureText {
+    .captiontext {
       font-size: 82px;
       line-height: 6rem;
       width: 40rem;
@@ -468,7 +468,7 @@
   }
   
   @media (min-width: 1400px) {
-    .captureText {
+    .captiontext {
       font-size: 92px;
       line-height: 6rem;
       width: 69rem;
@@ -501,13 +501,13 @@
       padding: 10rem 2rem;
     }
   
-    .captureText {
+    .captiontext {
       font-size: 42px;
       width: 100%;
       line-height: 3rem;
     }
   
-    .openingText {
+    .intro-text {
       color: var(--red);
       font-weight: 400;
       font-size: 28px;
