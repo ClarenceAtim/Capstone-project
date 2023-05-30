@@ -22,7 +22,7 @@ const artistContainer = [
   {
     name: 'city boy',
     title: '2nd Artist',
-    description: 'Rapper Skidi Boy Releases a conscious new ballad titled – A Di Call. The versatile rapper raps about the challenges he faces as an artist and the efforts he is putting in to realize his dreams..',
+    description: 'Rapper city Boy Releases a conscious new ballad titled – A Di Call. The versatile rapper raps about the challenges he faces as an artist and the efforts he is putting in to realize his dreams..',
     Image: 'Images/cityboy.png',
   },
   {
