@@ -37,6 +37,12 @@ const artistContainer = [
     description: 'Retrouvez les meilleurs HITS Camerounais de 2018 à 2020 dans un Mashup comme vous les aimez.',
     Image: 'Images/peter.png',
   },
+  {
+    name: 'clarence ',
+    title: 'MC',
+    description: 'Meet the best master of ceremoni in cameroon he is among the main gee froe tonight',
+    Image: 'Images/main mc.png',
+  },
 ];
 
 artistContainer.forEach((cardArtist) => {

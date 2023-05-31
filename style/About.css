@@ -177,10 +177,23 @@ body {
   font-size: 32px;
 }
 
+footer {
+  display: flex;
+}
+
+.spnosor-section {
+  display: block;
+}
+
 @media (min-width: 768px) {
   .explaining-text1 {
     width: 40rem;
     font-size: 22px;
+  }
+
+  footer {
+    background-color: black;
+    color: #fff;
   }
 
   .setoff {
@@ -198,6 +211,10 @@ body {
 
   .recent-carts {
     flex-direction: row;
+  }
+
+  .spnosor-section {
+    display: none;
   }
 }
 

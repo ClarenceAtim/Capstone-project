@@ -38,13 +38,13 @@ body {
 }
 
 .captiontext {
-  font-size: 62px;
+  font-size: 45px;
   font-weight: 900;
   line-height: 4.5rem;
   text-transform: uppercase;
   letter-spacing: 0.4rem;
   width: 35rem;
-  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) -3.75%, rgba(236, 82, 66, 0.9) 0%), url("../Images/audince dark imagen .png");
+  background-image: url("../Images/headerbg.png.jpg");
   background-size: 30px;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -147,6 +147,7 @@ footer div p {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   padding: 0 1rem;
+  color: white;
 }
 
 .shedule-cards:hover {
@@ -257,6 +258,7 @@ footer div p {
   font-weight: 900;
   color: var(--red);
   font-size: 28px;
+  font-style: italic;
 }
 
 .cards p {
@@ -298,6 +300,7 @@ footer div p {
   background-color: var(--black);
   padding: 2rem;
   align-items: center;
+  display: none;
 }
 
 .spnosor-imgages {
@@ -317,7 +320,7 @@ footer div p {
 /* ---------------footer section------------------- */
 
 footer {
-  display: flex;
+  display: none;
   gap: 20px;
   justify-content: center;
   padding: 5rem;
@@ -449,6 +452,14 @@ footer {
 
   .artist p {
     font-size: 20px;
+  }
+
+  footer {
+    display: flex;
+  }
+
+  .spnosor-section {
+    display: block;
   }
 }
 
