@@ -7,13 +7,6 @@
   --white: #d3d3d3;
 }
 
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
-}
-
 body {
   background-color: var(--black);
 }
