@@ -1,11 +1,10 @@
 # Capstone-project
-# Portfolio
 <a name="readme-top"></a>
 
 
 <div align="center">
   
-  <h3><b>Mobile Portfolio</b></h3>
+  <h3><b>talent-show</b></h3>
 
 </div>
 
@@ -30,9 +29,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Mobile portfolio <a name="about-project"></a>
+# 📖 capstone-project <a name="about-project"></a>
 
-**portfolio** is a repository.The goal is to master all of the tools and best practices learned in previous steps.
+**capstone-project** is a repository.The goal is to sale tickect and bring online a show where talent is demonstrated in the street.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,11 +59,8 @@
 - When the user clicks (or taps) the close (X) button, the mobile menu disappears.
 - When the user clicks (or taps) any of the mobile menu options, the mobile menu disappears.
 - When the user clicks (or taps) any of the mobile menu options, a correct part of the page is displayed.
-- When the user clicks (or taps) the button to check project details, the popup with details about the project appears.
-- When the user clicks (or taps) the close (X) button, the popup disappears.
-- JavaScript array to store all of the information for all projects.
-- Added a simple validation:
-- Preserve data in the browser
+- JavaScript array to store all of the information for all guest.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -83,7 +79,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/ClarenceAtim/Portfolio.git
+git clone https://github.com/ClarenceAtim/Capstone-project/pull/1
 
 ### Install
 
@@ -112,6 +108,7 @@ npx hint .
 ```
 npx stylelint "**/*.{css,scss}"
 ```
+npx eslint .
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,9 +121,6 @@ npx stylelint "**/*.{css,scss}"
 
 - GitHub: [ClarenceAtim](https://github.com/ClarenceAtim/Portfolio/tree/Portfolio-branch)
 
-👤 Stanley
-
-- GitHub: [sagieramos](https://github.com/sagieramos)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,15 +129,15 @@ npx stylelint "**/*.{css,scss}"
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add Footer**
-- [ ] **Add Header**
+- [ ] **adding additional deatails for the guest**
+- [ ] **making room for more artiest**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
 ## 🚀 Live Demo <a name='demo'></a>
->Here's the live demo of my website online portfolio click this [Link below](https://clarenceatim.github.io/Capstone-project/)
+>Here's the live demo of my website online talent show  click this [Link below](https://clarenceatim.github.io/Capstone-project/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -166,8 +160,7 @@ If you like this project give ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my teammembers
-Melkamu and
-Ian
+and aslo other microverse student that came in to assit me at certain point
 for helping me out
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
