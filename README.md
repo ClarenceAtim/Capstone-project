@@ -119,7 +119,7 @@ npx eslint .
 
 👤 Clarence
 
-- GitHub: [ClarenceAtim](https://github.com/ClarenceAtim/Portfolio/tree/Portfolio-branch)
+- GitHub: [ClarenceAtim](https://github.com/ClarenceAtim/Capstone-project)
 
 
 
